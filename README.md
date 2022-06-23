@@ -1,15 +1,18 @@
 ### Hi there 👋
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=zju-stu-lizheng&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
+![Liodb](https://github-readme-stats.vercel.app/api?username=zju-stu-lizheng&count_private=true)
 
-- 🌱 I’m currently learning NLP 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zju-stu-lizheng&layout=compact&hide_border=true&langs_count=8&hide=html,css,less,ejs,scss,makefile,jupyter%20notebook)
+
+- 🔭 I'm pursuing a bachelor's degree in computer science and technology at Zhejiang Unerversity. 
+- 🌱 I'm currently learning NLP.
 
 <!--
 **zju-stu-lizheng/zju-stu-lizheng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on Digital media Computing & Design Lab, Zhejiang Unerversity. 
 
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
