@@ -2,7 +2,9 @@
 
 ![Liodb](https://github-readme-stats.vercel.app/api?username=zju-stu-lizheng&count_private=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zju-stu-lizheng&layout=compact&hide_border=true&hide=VHDL,Verilog,Tcl,Stata&langs_count=8&hide=html,css,less,ejs,scss,makefile,jupyter%20notebook)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zju-stu-lizheng&hide=VHDL,Verilog,Tcl,Stata,HTML,css,less,ejs,scss&layout=compact&langs_count=8)](https://github.com/zju-stu-lizheng/github-readme-stats)
+
 
 - 🔭 I'm pursuing a bachelor's degree in computer science and technology at Zhejiang Unerversity. 
 - 🌱 I'm currently learning NLP.
