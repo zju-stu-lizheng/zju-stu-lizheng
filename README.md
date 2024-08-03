@@ -6,8 +6,8 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zju-stu-lizheng&hide=VHDL,Shell,JavaScript,Verilog,Tcl,Stata,HTML,css,less,ejs,scss&layout=compact&langs_count=8)](https://github.com/zju-stu-lizheng/zju-stu-lizheng)
 
 
-- 🔭 I'm pursuing a bachelor's degree in computer science and technology at Zhejiang Unerversity. 
-- 🌱 I'm currently learning NLP.
+- 🔭 I'm pursuing a master's degree in computer science and technology at Zhejiang Unerversity. 
+- 🌱 I'm currently learning LLM.
 
 <!--
 **zju-stu-lizheng/zju-stu-lizheng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
