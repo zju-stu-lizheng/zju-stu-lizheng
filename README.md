@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-![Liodb](https://github-readme-stats.vercel.app/api?username=zju-stu-lizheng&count_private=true)
+![Liodb](https://github-readme-stats.vercel.app/api?username=zju-stu-lizheng&count_private=true&show_icons=true&include_all_commits=true)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zju-stu-lizheng&hide=VHDL,Shell,JavaScript,Verilog,Tcl,Stata,HTML,css,less,ejs,scss&layout=compact&langs_count=8)](https://github.com/zju-stu-lizheng/zju-stu-lizheng)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zju-stu-lizheng&hide=VHDL,Shell,JavaScript,Verilog,Tcl,Stata,HTML,css,less,ejs,scss,TypeScript&layout=compact&langs_count=8)](https://github.com/zju-stu-lizheng/zju-stu-lizheng)
 
 
 - 🔭 I'm pursuing a master's degree in computer science and technology at Zhejiang Unerversity. 
