@@ -7,7 +7,7 @@
 
 
 - 🔭 I'm pursuing a master's degree in computer science and technology at Zhejiang Unerversity. 
-- 🌱 I'm currently learning LLM.
+- 🌱 I'm currently learning LLM (inference and finetune).
 
 <!--
 **zju-stu-lizheng/zju-stu-lizheng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
